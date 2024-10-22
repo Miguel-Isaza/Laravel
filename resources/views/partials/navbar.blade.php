@@ -1,0 +1,9 @@
+<header>
+    <nav>
+        <ul>
+            <li>home</li>
+            <li>info</li>
+            <li>contact</li>
+        </ul>
+    </nav>
+</header>
